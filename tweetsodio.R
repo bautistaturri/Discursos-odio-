@@ -36,13 +36,8 @@ odio_terms <- paste(
   "la yegua OR la jefa OR la chorra"
 )
 
-odio_terms_oposicion <- paste(
-  "gorila OR globoludo OR macrista OR cheto OR casta OR garca OR",
-  "libertonto OR libertarado OR fascista OR facho OR ultraderecha OR neoliberal OR antipatria OR vendepatria OR",
-  "macri OR mauricio OR bullrich OR milei OR villarruel OR larreta OR picheto OR melconian OR vidal OR espert OR",
-  "pro OR juntos OR cambiemos OR libertario OR amarillos OR gorilaje OR antiK OR anti peronista OR anti peronia OR",
-  "capitalista OR chupaculos OR empresaurio OR bostero OR lacayo OR sirviente OR burgués OR oligarca OR cipayo"
-)
+odio_terms_oposicion <- "gorila OR globoludo OR macrista OR cheto OR casta OR garca OR libertonto OR libertarado OR fascista OR facho OR ultraderecha OR neoliberal OR antipatria OR vendepatria OR macri OR mauricio OR bullrich OR milei OR villarruel OR larreta OR picheto OR melconian OR vidal OR espert OR pro OR juntos OR cambiemos OR libertario OR amarillos OR gorilaje OR antiK OR anti peronista OR anti peronia OR capitalista OR chupaculos OR empresaurio OR bostero OR lacayo OR sirviente OR burgués OR oligarca OR cipayo"
+
 
 # ================================
 # Descargar tweets día por día
