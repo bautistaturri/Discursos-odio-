@@ -1,4 +1,4 @@
-![Portada del proyecto](image.png)
+![Portada del proyecto](image.jpg)
 
 
 ### Proyecto: Monitoreo y Análisis de Discursos de Odio en Redes Sociales
