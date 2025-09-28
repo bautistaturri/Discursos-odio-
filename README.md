@@ -9,7 +9,7 @@ Este proyecto forma parte de una iniciativa impulsada por el Centro de Inteligen
 
 El archivo en R se utiliza para la primera etapa del proyecto: la recolección y limpieza inicial de datos. Mediante la librería `TweetScraperR`, el script descarga tweets históricos según palabras clave relacionadas con discursos de odio, dentro de un rango temporal definido. El código permite modificar estas palabras en la función `getTweetsHistoricalSearch` para adaptarlas al objetivo de cada análisis. Luego, combina todos los datos obtenidos, elimina duplicados, limpia el texto (quitando emojis y caracteres no deseados) y genera datasets finales en formatos `.rds` y `.csv` que servirán como insumo para etapas posteriores.
 
-### Notebook en Python (`analisis.ipynb`)
+### Notebook en Python (`discursosAnalisis.ipynb`)
 
 El archivo en Python complementa el trabajo realizado en R y se enfoca en el análisis exploratorio y la interpretación de los datos recolectados. En esta etapa, se realizan tareas como la exploración descriptiva del corpus, la visualización de tendencias, la identificación de usuarios y hashtags relevantes y la aplicación de modelos de clasificación (por ejemplo, BETO) para detectar y categorizar discursos de odio. Además, el notebook permite preparar los datos para futuros desarrollos, como dashboards interactivos o pipelines automatizados de monitoreo.
 
