@@ -1,3 +1,6 @@
+![Portada del proyecto](imagen.png)
+
+
 ### Proyecto: Monitoreo y Análisis de Discursos de Odio en Redes Sociales
 
 Este proyecto forma parte de una iniciativa impulsada por el Centro de Inteligencia Artificial Interdisciplinario (CIAI) de la Universidad Nacional de San Martín. Su objetivo general es desarrollar un sistema que permita recolectar, depurar, analizar y visualizar la presencia de discursos de odio en Twitter en el contexto argentino. El trabajo combina técnicas de scraping, procesamiento y análisis de datos con herramientas de inteligencia artificial y análisis lingüístico, buscando generar conocimiento útil tanto para la investigación académica como para el desarrollo de políticas públicas.
