@@ -5,6 +5,15 @@ library(TweetScraperR)
 library(dplyr)
 library(stringr)
 
+
+## Instalación de paquetes necesarios
+##
+#install.packages("chromote")
+#install.packages("remotes")
+#remotes::install_github("agusnieto77/TweetScraperR")
+#install.packages("TweetScraperR")
+
+
 # ================================
 # Autenticación
 # ================================
